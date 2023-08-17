@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Week_1.Week1
+namespace SchoolStuff.Week1
 {
-    internal class EvenOdd
+    class EvenOdd
     {
-        static void Main(string[] args)
+        static void Main()
         {
             int userNum;
             Console.Write("Enter your number: ");
