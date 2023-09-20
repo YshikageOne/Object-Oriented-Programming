@@ -1,0 +1,16 @@
+C:\Users\gayur\Desktop\Coding stuff\C-Sharp\SchoolStuff\Simple Calculator\bin\Debug\net7.0-windows\Simple Calculator.exe
+C:\Users\gayur\Desktop\Coding stuff\C-Sharp\SchoolStuff\Simple Calculator\bin\Debug\net7.0-windows\Simple Calculator.deps.json
+C:\Users\gayur\Desktop\Coding stuff\C-Sharp\SchoolStuff\Simple Calculator\bin\Debug\net7.0-windows\Simple Calculator.runtimeconfig.json
+C:\Users\gayur\Desktop\Coding stuff\C-Sharp\SchoolStuff\Simple Calculator\bin\Debug\net7.0-windows\Simple Calculator.dll
+C:\Users\gayur\Desktop\Coding stuff\C-Sharp\SchoolStuff\Simple Calculator\bin\Debug\net7.0-windows\Simple Calculator.pdb
+C:\Users\gayur\Desktop\Coding stuff\C-Sharp\SchoolStuff\Simple Calculator\obj\Debug\net7.0-windows\SchoolStuff2.Week7.test.SimpleCalculatorFrame.resources
+C:\Users\gayur\Desktop\Coding stuff\C-Sharp\SchoolStuff\Simple Calculator\obj\Debug\net7.0-windows\Simple Calculator.csproj.GenerateResource.cache
+C:\Users\gayur\Desktop\Coding stuff\C-Sharp\SchoolStuff\Simple Calculator\obj\Debug\net7.0-windows\Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gayur\Desktop\Coding stuff\C-Sharp\SchoolStuff\Simple Calculator\obj\Debug\net7.0-windows\Simple Calculator.AssemblyInfoInputs.cache
+C:\Users\gayur\Desktop\Coding stuff\C-Sharp\SchoolStuff\Simple Calculator\obj\Debug\net7.0-windows\Simple Calculator.AssemblyInfo.cs
+C:\Users\gayur\Desktop\Coding stuff\C-Sharp\SchoolStuff\Simple Calculator\obj\Debug\net7.0-windows\Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\gayur\Desktop\Coding stuff\C-Sharp\SchoolStuff\Simple Calculator\obj\Debug\net7.0-windows\Simple Calculator.dll
+C:\Users\gayur\Desktop\Coding stuff\C-Sharp\SchoolStuff\Simple Calculator\obj\Debug\net7.0-windows\refint\Simple Calculator.dll
+C:\Users\gayur\Desktop\Coding stuff\C-Sharp\SchoolStuff\Simple Calculator\obj\Debug\net7.0-windows\Simple Calculator.pdb
+C:\Users\gayur\Desktop\Coding stuff\C-Sharp\SchoolStuff\Simple Calculator\obj\Debug\net7.0-windows\Simple Calculator.genruntimeconfig.cache
+C:\Users\gayur\Desktop\Coding stuff\C-Sharp\SchoolStuff\Simple Calculator\obj\Debug\net7.0-windows\ref\Simple Calculator.dll
